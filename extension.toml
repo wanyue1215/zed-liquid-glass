@@ -1,0 +1,8 @@
+id = "liquid-glass-theme"
+name = "Liquid Glass"
+version = "0.1.0"
+schema_version = 1
+authors = ["wanyue1215"]
+repository = "https://github.com/wanyue1215/zed-liquid-glass"
+description = "A frosted dark theme with translucent chrome, soft highlights, and legible code."
+themes = ["themes/liquid-glass.json"]
